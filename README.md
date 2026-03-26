@@ -79,7 +79,7 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
 |----------------|------------------------------|--------------|------------|
 |                |                              |              |            |
-
+ 
 ---
 
 ## MODEL GRAPH
